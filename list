@@ -1,0 +1,11 @@
+#list of strings in a list 
+list2 = ['hi', 'kanak', 'harsh']
+#list of float numbers ina list 
+list3= [23.4 , 67.8 , 89.0]
+#list of nested lists in a list 
+list5 = ['asif', 25 , [50,100], [150,90]]
+print(list5)
+print(list2)
+print(list3)
+len(list5)
+
